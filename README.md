@@ -1,0 +1,2 @@
+# sudoku-config
+Sudoku settings
